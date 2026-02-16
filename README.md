@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Saurabh
 
-<!--
-**Saurabh0x0/Saurabh0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 12 (CBSE) Student | Aspiring Computer Science Undergraduate  
+💻 Python Enthusiast  
+📍 Delhi, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python (Beginner)
+- Functions & Loops
+- Exception Handling
+- Basic Problem Solving
+
+---
+
+## 📂 Projects
+🔹 Student Marks Management System  
+🔹 Menu Driven Calculator  
+
+---
+
+## 🎯 Goal
+To gain practical experience in Computer Science and continuously improve my programming skills.
+
+---
+
+Thanks for visiting my profile!
