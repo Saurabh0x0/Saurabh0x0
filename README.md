@@ -1,6 +1,7 @@
 # Hi 👋 I'm Saurabh Rajput
 
 🎓 First-Year B.Tech Computer Science Engineering Student
+
 🏫 Gateway Institute of Engineering & Technology
 
 💻 Aspiring Software Engineer
