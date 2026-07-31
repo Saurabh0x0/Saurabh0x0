@@ -1,28 +1,20 @@
-# Hi 👋 I'm Saurabh
+# Hi 👋 I'm Saurabh Rajput
 
-🎓 Class 12 (CBSE) Student | Aspiring Computer Science Undergraduate  
-💻 Python Enthusiast  
-📍 Delhi, India  
+🎓 First-Year B.Tech Computer Science Engineering Student
+🏫 Gateway Institute of Engineering & Technology
 
----
+💻 Aspiring Software Engineer
+🌱 Currently learning:
+- C Programming
+- Git & GitHub
+- Python
 
-## 🚀 Skills
-- Python (Beginner)
-- Functions & Loops
-- Exception Handling
-- Basic Problem Solving
+🚀 Interests:
+- Software Development
+- Artificial Intelligence
+- Open Source
 
----
+📍 Delhi, India
 
-## 📂 Projects
-🔹 Student Marks Management System  
-🔹 Menu Driven Calculator  
-
----
-
-## 🎯 Goal
-To gain practical experience in Computer Science and continuously improve my programming skills.
-
----
-
-Thanks for visiting my profile!
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/saurabhh-rajputt
