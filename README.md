@@ -5,6 +5,7 @@
 🏫 Gateway Institute of Engineering & Technology
 
 💻 Aspiring Software Engineer
+
 🌱 Currently learning:
 - C Programming
 - Git & GitHub
